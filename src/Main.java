@@ -9,6 +9,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("second commit");
         System.out.println("pull");
-        System.out.println("push test");
+        System.out.println("mac push test");
     }
 }
